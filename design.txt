@@ -1,0 +1,18 @@
+Posição por GPS
+Inteligência artificial para analisar dados recorrentes do trânsito
+Sensores para evitar acidentes entre veículos ou entre pessoas
+Interface gráfica durante a viagem (por exemplo taxi 99)
+Área do cliente com comentários, previsões e avaliações anônimas
+Várias formas de pagamento e de contagem de dinheiro
+
+DESIGN Carro
+Baterias para circuito interno e como combustível
+Elevador compacto
+Para pagamento em dinheiro, um caixa para recebimento e devolução de troco.
+Revestimento em vidro temperado 8mm para segurança
+Sistema de pouso baseado em drones
+Turbinas móveis para direcionamento mais exato
+Baterias que duram 24 hrs
+
+Filipe Verrone de Lima (1903580)
+Vinícius Tirelli Prestes (1903611)

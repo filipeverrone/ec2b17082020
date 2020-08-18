@@ -1,0 +1,9 @@
+CODIFICAÇÃO
+Comunicação entre o aplicativo, a central Uber Air e os carros voadores
+Comunicação entre os carros voadores e a central
+Programação para a interface de usuário
+Programação para sistema de voo direcionado do carro
+ERP da 99 Taxi
+
+Filipe Verroni de Lima (1903580)
+Vinícius Tirelli Prestes (1903611)
